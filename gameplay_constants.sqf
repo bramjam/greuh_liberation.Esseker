@@ -1,4 +1,4 @@
-GRLIB_save_key = "GREUH_LIBERATION_SAVEGAME";	// change this value if you want different savegames on different map
+GRLIB_save_key = "GREUH_LIBERATION_SAVEGAME_ESSEKER";	// change this value if you want different savegames on different map
 
 GRLIB_sector_size = 1000;
 GRLIB_capture_size = 175;
