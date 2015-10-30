@@ -2226,7 +2226,7 @@ class Mission
 	};
 	class Markers
 	{
-		items=147;
+		items=148;
 		class Item0
 		{
 			position[]={1990.2933,198.06607,4181.0918};
@@ -2519,29 +2519,13 @@ class Mission
 		};
 		class Item37
 		{
-			position[]={1358.4125,143.47115,4621.6694};
-			name="military_2_1_1";
-			text="Supply point";
-			type="o_support";
-			colorName="ColorEAST";
-		};
-		class Item38
-		{
-			position[]={5253.8384,250.3656,3342.3086};
-			name="military_2_1_2";
-			text="Checkpoint";
-			type="o_support";
-			colorName="ColorEAST";
-		};
-		class Item39
-		{
 			position[]={4987.6025,232.68996,10323.266};
 			name="capture_4_2_1";
 			text="Nekrashuk";
 			type="n_art";
 			colorName="ColorEAST";
 		};
-		class Item40
+		class Item38
 		{
 			position[]={2781.8318,137.35471,11235.417};
 			name="military_2_1_2_1";
@@ -2549,7 +2533,7 @@ class Mission
 			type="o_support";
 			colorName="ColorEAST";
 		};
-		class Item41
+		class Item39
 		{
 			position[]={1421.876,200.53748,10489.42};
 			name="tower_1";
@@ -2557,7 +2541,7 @@ class Mission
 			type="loc_Transmitter";
 			colorName="ColorEAST";
 		};
-		class Item42
+		class Item40
 		{
 			position[]={3328.3403,92.151299,4668.7705};
 			name="tower_2";
@@ -2565,7 +2549,7 @@ class Mission
 			type="loc_Transmitter";
 			colorName="ColorEAST";
 		};
-		class Item43
+		class Item41
 		{
 			position[]={4392.8525,184.34735,6086.4331};
 			name="tower_3";
@@ -2573,15 +2557,15 @@ class Mission
 			type="loc_Transmitter";
 			colorName="ColorEAST";
 		};
-		class Item44
+		class Item42
 		{
-			position[]={6224.0078,191.29353,8138.5342};
+			position[]={5568.585,174.55054,8507.9883};
 			name="tower_4";
 			text="Radio Tower";
 			type="loc_Transmitter";
 			colorName="ColorEAST";
 		};
-		class Item45
+		class Item43
 		{
 			position[]={9242.5684,257.68137,8521.5742};
 			name="tower_5";
@@ -2589,7 +2573,7 @@ class Mission
 			type="loc_Transmitter";
 			colorName="ColorEAST";
 		};
-		class Item46
+		class Item44
 		{
 			position[]={9510.0498,117.39716,3792.5867};
 			name="tower_6";
@@ -2597,7 +2581,7 @@ class Mission
 			type="loc_Transmitter";
 			colorName="ColorEAST";
 		};
-		class Item47
+		class Item45
 		{
 			position[]={7429.2588,19.22784,5370.1353};
 			name="capture_4_5_2";
@@ -2605,7 +2589,7 @@ class Mission
 			type="n_art";
 			colorName="ColorEAST";
 		};
-		class Item48
+		class Item46
 		{
 			position[]={12105.199,0.0035691869,4886.9404};
 			name="lhd";
@@ -2614,7 +2598,7 @@ class Mission
 			colorName="ColorWEST";
 			angle=-63.935387;
 		};
-		class Item49
+		class Item47
 		{
 			position[]={12027.654,-0.024233691,4929.4971};
 			name="huronmarker";
@@ -2622,7 +2606,7 @@ class Mission
 			type="b_air";
 			angle=-63.935387;
 		};
-		class Item50
+		class Item48
 		{
 			position[]={977.91589,150.24496,2732.0977};
 			name="base_chimera";
@@ -2631,7 +2615,7 @@ class Mission
 			colorName="ColorWEST";
 			angle=66.453888;
 		};
-		class Item51
+		class Item49
 		{
 			position[]={6939.7715,191.8177,5098.5591};
 			name="tower_2_1";
@@ -2639,7 +2623,7 @@ class Mission
 			type="loc_Transmitter";
 			colorName="ColorEAST";
 		};
-		class Item52
+		class Item50
 		{
 			position[]={7036.9541,203.14143,11017.248};
 			name="tower_2_2";
@@ -2647,568 +2631,586 @@ class Mission
 			type="loc_Transmitter";
 			colorName="ColorEAST";
 		};
-		class Item53
+		class Item51
 		{
 			position[]={3084.3735,171.48203,5660.1001};
 			name="opfor_point_1";
 			type="Empty";
 		};
-		class Item54
+		class Item52
 		{
 			position[]={4063.291,110.93079,4562.0562};
 			name="opfor_point_2";
 			type="Empty";
 		};
-		class Item55
+		class Item53
 		{
 			position[]={3708.2358,118.42599,4425.0513};
 			name="opfor_point_3";
 			type="Empty";
 		};
-		class Item56
+		class Item54
 		{
 			position[]={2213.9512,182.97008,3946.6311};
 			name="opfor_point_4";
 			type="Empty";
 		};
-		class Item57
+		class Item55
 		{
 			position[]={1708.8933,213.47061,4242.606};
 			name="opfor_point_5";
 			type="Empty";
 		};
-		class Item58
+		class Item56
 		{
 			position[]={905.05811,170.07251,5153.2793};
 			name="opfor_point_6";
 			type="Empty";
 		};
-		class Item59
+		class Item57
 		{
 			position[]={1359.448,144.93445,5252.5259};
 			name="opfor_point_7";
 			type="Empty";
 		};
-		class Item60
+		class Item58
 		{
 			position[]={952.90137,195.98,5955.3823};
 			name="opfor_point_8";
 			type="Empty";
 		};
-		class Item61
+		class Item59
 		{
 			position[]={1242.8014,175.7121,6538.1851};
 			name="opfor_point_9";
 			type="Empty";
 		};
-		class Item62
+		class Item60
 		{
 			position[]={801.05908,303.6846,7710.7324};
 			name="opfor_point_10";
 			type="Empty";
 		};
-		class Item63
+		class Item61
 		{
 			position[]={808.44196,193.26357,6894.6943};
 			name="opfor_point_11";
 			type="Empty";
 		};
-		class Item64
+		class Item62
 		{
 			position[]={1802.3926,168.35518,7346.5723};
 			name="opfor_point_12";
 			type="Empty";
 		};
-		class Item65
+		class Item63
 		{
 			position[]={2047.8545,174.56644,7182.438};
 			name="opfor_point_13";
 			type="Empty";
 		};
-		class Item66
+		class Item64
 		{
 			position[]={2678.4951,133.87471,7163.3638};
 			name="opfor_point_14";
 			type="Empty";
 		};
-		class Item67
+		class Item65
 		{
 			position[]={2468.6843,123.7168,6501.1318};
 			name="opfor_point_15";
 			type="Empty";
 		};
-		class Item68
+		class Item66
 		{
 			position[]={2380.385,124.51394,6674.4507};
 			name="opfor_point_16";
 			type="Empty";
 		};
-		class Item69
+		class Item67
 		{
 			position[]={1959.4028,176.40744,5806.1763};
 			name="opfor_point_17";
 			type="Empty";
 		};
-		class Item70
+		class Item68
 		{
 			position[]={4708.5396,210.37622,4089.1497};
 			name="opfor_point_18";
 			type="Empty";
 		};
-		class Item71
+		class Item69
 		{
 			position[]={4221.3745,267.28033,3795.0381};
 			name="opfor_point_19";
 			type="Empty";
 		};
-		class Item72
+		class Item70
 		{
 			position[]={4774.6304,255.27,3504.8694};
 			name="opfor_point_20";
 			type="Empty";
 		};
-		class Item73
+		class Item71
 		{
 			position[]={7805.2451,227.8,3811.793};
 			name="opfor_point_21";
 			type="Empty";
 		};
-		class Item74
+		class Item72
 		{
 			position[]={7456.9893,236.71733,3560.7839};
 			name="opfor_point_22";
 			type="Empty";
 		};
-		class Item75
+		class Item73
 		{
 			position[]={6268.9121,237.2,3316.1396};
 			name="opfor_point_23";
 			type="Empty";
 		};
-		class Item76
+		class Item74
 		{
 			position[]={7517.0317,109.34689,4337.6919};
 			name="opfor_point_24";
 			type="Empty";
 		};
-		class Item77
+		class Item75
 		{
 			position[]={10442.334,96.781319,4022.2954};
 			name="opfor_point_25";
 			type="Empty";
 		};
-		class Item78
+		class Item76
 		{
 			position[]={350.5127,149.46114,9767.9258};
 			name="opfor_point_26";
 			type="Empty";
 		};
-		class Item79
+		class Item77
 		{
 			position[]={2063.9946,156.56728,11100.582};
 			name="opfor_point_27";
 			type="Empty";
 		};
-		class Item80
+		class Item78
 		{
 			position[]={3780.5881,154.00066,11113.102};
 			name="opfor_point_28";
 			type="Empty";
 		};
-		class Item81
+		class Item79
 		{
 			position[]={8348.6934,146.28505,10451.096};
 			name="opfor_point_29";
 			type="Empty";
 		};
-		class Item82
+		class Item80
 		{
 			position[]={9818.0791,17.117287,10178.619};
 			name="opfor_point_30";
 			type="Empty";
 		};
-		class Item83
+		class Item81
 		{
 			position[]={11142.753,4.7057519,9704.5391};
 			name="opfor_point_32";
 			type="Empty";
 		};
-		class Item84
+		class Item82
 		{
 			position[]={10961.528,127.5454,8906.873};
 			name="opfor_point_33";
 			type="Empty";
 		};
-		class Item85
+		class Item83
 		{
 			position[]={11686.857,6.1212058,9160.5254};
 			name="opfor_point_34";
 			type="Empty";
 		};
-		class Item86
+		class Item84
 		{
 			position[]={11937.004,13.716522,7212.21};
 			name="opfor_point_35";
 			type="Empty";
 		};
-		class Item87
+		class Item85
 		{
 			position[]={11786.488,42.69379,6362.2275};
 			name="opfor_point_36";
 			type="Empty";
 		};
-		class Item88
+		class Item86
 		{
 			position[]={11898.016,22.718145,5889.3335};
 			name="opfor_point_37";
 			type="Empty";
 		};
-		class Item89
+		class Item87
 		{
 			position[]={11644.322,27.550701,5586.064};
 			name="opfor_point_38";
 			type="Empty";
 		};
-		class Item90
+		class Item88
 		{
 			position[]={11472.437,23.064091,5423.9292};
 			name="opfor_point_39";
 			type="Empty";
 		};
-		class Item91
+		class Item89
 		{
 			position[]={8719.3516,58.082706,6546.2925};
 			name="opfor_point_40";
 			type="Empty";
 		};
-		class Item92
+		class Item90
 		{
 			position[]={8017.2173,117.07895,6468.584};
 			name="opfor_point_41";
 			type="Empty";
 		};
-		class Item93
+		class Item91
 		{
 			position[]={7576.3418,112.64603,6456.5239};
 			name="opfor_point_42";
 			type="Empty";
 		};
-		class Item94
+		class Item92
 		{
 			position[]={7131.8159,11.674929,5842.5518};
 			name="opfor_point_43";
 			type="Empty";
 		};
-		class Item95
+		class Item93
 		{
 			position[]={4937.4077,148.94632,8605.4443};
 			name="opfor_point_44";
 			type="Empty";
 		};
-		class Item96
+		class Item94
 		{
 			position[]={4259.9106,145.55869,9007.9883};
 			name="opfor_point_45";
 			type="Empty";
 		};
-		class Item97
+		class Item95
 		{
 			position[]={3668.802,155.42775,9512.5313};
 			name="opfor_point_46";
 			type="Empty";
 		};
-		class Item98
+		class Item96
 		{
 			position[]={2704.748,224.93588,10292.234};
 			name="opfor_point_47";
 			type="Empty";
 		};
-		class Item99
+		class Item97
 		{
 			position[]={1539.0348,82.102493,9319.79};
 			name="opfor_point_48";
 			type="Empty";
 		};
-		class Item100
+		class Item98
 		{
 			position[]={1033.0002,125.13338,9180.4639};
 			name="opfor_point_49";
 			type="Empty";
 		};
-		class Item101
+		class Item99
 		{
 			position[]={942.70276,123.52386,9195.3008};
 			name="opfor_point_50";
 			type="Empty";
 		};
-		class Item102
+		class Item100
 		{
 			position[]={1729.698,176.15979,8826.4082};
 			name="opfor_point_51";
 			type="Empty";
 		};
-		class Item103
+		class Item101
 		{
 			position[]={6509.3027,225.88113,9433.0088};
 			name="opfor_point_52";
 			type="Empty";
 		};
-		class Item104
+		class Item102
 		{
 			position[]={7449.4717,151.06259,8816.0449};
 			name="opfor_point_53";
 			type="Empty";
 		};
-		class Item105
+		class Item103
 		{
 			position[]={6129.5928,169.30302,8761.4092};
 			name="opfor_point_54";
 			type="Empty";
 		};
-		class Item106
+		class Item104
 		{
 			position[]={5625.2173,148.32135,8762.7852};
 			name="opfor_point_55";
 			type="Empty";
 		};
-		class Item107
+		class Item105
 		{
 			position[]={7700.231,178.08458,8354.7197};
 			name="opfor_point_56";
 			type="Empty";
 		};
-		class Item108
+		class Item106
 		{
 			position[]={7814.3843,168.63306,8247.4014};
 			name="opfor_point_57";
 			type="Empty";
 		};
-		class Item109
+		class Item107
 		{
 			position[]={8619.9902,171.6819,8314.4717};
 			name="opfor_point_58";
 			type="Empty";
 		};
-		class Item110
+		class Item108
 		{
 			position[]={6323.3818,82.881981,5319.5098};
 			name="opfor_point_59";
 			type="Empty";
 		};
-		class Item111
+		class Item109
 		{
 			position[]={7658.8867,108.93298,4557.6953};
 			name="opfor_point_60";
 			type="Empty";
 		};
-		class Item112
+		class Item110
 		{
 			position[]={9781.5068,150.07098,3192.4226};
 			name="opfor_point_61";
 			type="Empty";
 		};
-		class Item113
+		class Item111
 		{
 			position[]={9295.8574,172.38332,2739.1926};
 			name="opfor_point_62";
 			type="Empty";
 		};
-		class Item114
+		class Item112
 		{
 			position[]={11461.138,17.610933,4709.064};
 			name="opfor_point_63";
 			type="Empty";
 		};
-		class Item115
+		class Item113
 		{
 			position[]={9462.4707,180.13213,7341.5293};
 			name="opfor_point_64";
 			type="Empty";
 		};
-		class Item116
+		class Item114
 		{
 			position[]={12168.599,10.59927,7210.645};
 			name="opfor_point_65";
 			type="Empty";
 		};
-		class Item117
+		class Item115
 		{
 			position[]={486.36752,123.68,558.95972};
 			name="ghost_spot";
 			type="Empty";
 		};
-		class Item118
+		class Item116
 		{
 			position[]={416.77185,122.92386,186.94214};
 			name="respawn_west";
 			type="Empty";
 		};
-		class Item119
+		class Item117
 		{
 			position[]={5304.4204,176.98172,6156.8804};
 			name="opfor_point_66";
 			type="Empty";
 		};
-		class Item120
+		class Item118
 		{
 			position[]={2357.9475,214.68709,8442.0664};
 			name="opfor_point_67";
 			type="Empty";
 		};
-		class Item121
+		class Item119
 		{
 			position[]={6544.9424,146.59795,6979.4067};
 			name="opfor_point_68";
 			type="Empty";
 		};
-		class Item122
+		class Item120
 		{
 			position[]={6863.1069,99.814262,7177.584};
 			name="opfor_point_69";
 			type="Empty";
 		};
-		class Item123
+		class Item121
 		{
 			position[]={5728.5361,155.76703,7277.7134};
 			name="opfor_point_70";
 			type="Empty";
 		};
-		class Item124
+		class Item122
 		{
 			position[]={5894.752,179.58978,7507.5791};
 			name="opfor_point_71";
 			type="Empty";
 		};
-		class Item125
+		class Item123
 		{
 			position[]={5538.6094,161.49014,7455.5688};
 			name="opfor_point_72";
 			type="Empty";
 		};
-		class Item126
+		class Item124
 		{
 			position[]={4337.4844,123.78991,5508.4629};
 			name="opfor_point_73";
 			type="Empty";
 		};
-		class Item127
+		class Item125
 		{
 			position[]={4777.5293,113.95842,5610.8428};
 			name="opfor_point_74";
 			type="Empty";
 		};
-		class Item128
+		class Item126
 		{
 			position[]={3656.49,129.0864,5866};
 			name="opfor_point_75";
 			type="Empty";
 		};
-		class Item129
+		class Item127
 		{
 			position[]={4107.4678,147.02216,6692.4336};
 			name="opfor_point_76";
 			type="Empty";
 		};
-		class Item130
+		class Item128
 		{
 			position[]={4317.9624,97.826431,7002.0298};
 			name="opfor_point_77";
 			type="Empty";
 		};
-		class Item131
+		class Item129
 		{
 			position[]={5376.6587,123.50661,5809.5205};
 			name="opfor_point_78";
 			type="Empty";
 		};
-		class Item132
+		class Item130
 		{
 			position[]={7432.6528,163.18329,11477.005};
 			name="opfor_point_79";
 			type="Empty";
 		};
-		class Item133
+		class Item131
 		{
 			position[]={5549.4209,246.68018,9671.6006};
 			name="opfor_point_80";
 			type="Empty";
 		};
-		class Item134
+		class Item132
 		{
 			position[]={10619.021,7.6245737,9819.5225};
 			name="opfor_point_81";
 			type="Empty";
 		};
-		class Item135
+		class Item133
 		{
 			position[]={11294.349,18.046909,7924.6338};
 			name="opfor_point_31";
 			type="Empty";
 		};
-		class Item136
+		class Item134
 		{
 			position[]={8863.6348,158.51115,8085.0957};
 			name="opfor_point_82";
 			type="Empty";
 		};
-		class Item137
+		class Item135
 		{
 			position[]={9184.9844,5.1297369,4821.3115};
 			name="opfor_point_83";
 			type="Empty";
 		};
-		class Item138
+		class Item136
 		{
 			position[]={8993.8213,10.850199,4448.123};
 			name="opfor_point_84";
 			type="Empty";
 		};
-		class Item139
+		class Item137
 		{
 			position[]={8143.416,18.856998,5077.6289};
 			name="opfor_point_85";
 			type="Empty";
 		};
-		class Item140
+		class Item138
 		{
 			position[]={6675.874,61.180885,5420.6665};
 			name="opfor_point_86";
 			type="Empty";
 		};
-		class Item141
+		class Item139
 		{
 			position[]={6940.6763,12.739587,5641.4932};
 			name="opfor_point_87";
 			type="Empty";
 		};
-		class Item142
+		class Item140
 		{
 			position[]={5551.2241,66.65065,5187.3228};
 			name="opfor_point_88";
 			type="Empty";
 		};
-		class Item143
+		class Item141
 		{
 			position[]={8990.7822,24.120695,9624.4551};
 			name="opfor_point_81_1";
 			type="Empty";
 		};
-		class Item144
+		class Item142
 		{
 			position[]={8305.8457,32.931709,9931.8838};
 			name="opfor_point_81_2";
 			type="Empty";
 		};
-		class Item145
+		class Item143
 		{
 			position[]={2963.4209,151.66475,9304.4199};
 			name="opfor_point_81_3";
 			type="Empty";
 		};
-		class Item146
+		class Item144
 		{
 			position[]={10707.864,21.391293,5770.9492};
 			name="opfor_point_81_4";
+			type="Empty";
+		};
+		class Item145
+		{
+			position[]={4020.7371,138.01247,7992.2339};
+			name="opfor_point_14_1";
+			type="Empty";
+		};
+		class Item146
+		{
+			position[]={4539.0547,151.48558,7772.7271};
+			name="opfor_point_14_2";
+			type="Empty";
+		};
+		class Item147
+		{
+			position[]={6028.6484,211.31393,11154.105};
+			name="opfor_point_14_3";
 			type="Empty";
 		};
 	};
